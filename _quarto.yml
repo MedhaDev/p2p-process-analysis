@@ -1,0 +1,6 @@
+project:
+  type: default
+  render:
+    - case_study.qmd
+  post-render:
+    - clean_report_html.py
