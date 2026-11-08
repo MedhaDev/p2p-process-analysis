@@ -1,0 +1,5 @@
+pandas
+pm4py
+matplotlib
+pyarrow
+quarto-cli
