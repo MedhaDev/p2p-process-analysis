@@ -1,0 +1,16 @@
+# Raw data stays local (too large for GitHub; README links to the source)
+data/*
+!data/DOWNLOAD_HERE.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Quarto working files (the rendered case_study.html is kept)
+/.quarto/
+**/*.quarto_ipynb
+*_files/
